@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"App",
+				"App\\Photo"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"auth",
+				"auth:api"
+			],
+			[
+				"I",
+				"IssueTokenTrait"
+			],
+			[
+				"A",
+				"Auth〔class〕"
+			],
+			[
+				"Use",
+				"UserGroupsTableSeeder〔class〕"
+			],
+			[
+				"nu",
+				"numberBetween〔function〕"
+			],
+			[
+				"has",
+				"hasMany〔function〕"
+			],
+			[
+				"f",
+				"Facades〔namespace〕"
+			],
+			[
+				"s",
+				"Support〔namespace〕"
+			],
+			[
+				"acc",
+				"$accessToken〔variable〕"
+			],
+			[
+				"refresh",
+				"refresh_token"
+			],
+			[
+				"Ca",
+				"Carbon〔namespace〕"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Rout",
+				"Illuminate\\Routing\\Route〔class〕"
+			],
+			[
+				"request",
+				"$request〔variable〕"
+			],
+			[
+				"client",
+				"client_secret"
+			],
+			[
+				"clie",
+				"client_id"
+			],
+			[
+				"Pass",
+				"PassportServiceProvider〔class〕"
+			],
+			[
+				"User",
+				"App\\User〔class〕"
+			],
+			[
+				"fa",
+				"$faker〔variable〕"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"Fa",
+				"Faker"
+			],
+			[
+				"init",
+				"init-param"
+			],
+			[
+				"AD",
+				"admin"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"manage",
+				"manager-gui"
+			],
+			[
+				"rol",
+				"roles"
+			],
+			[
+				"use",
+				"user"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: Re",
+		"selected_items":
+		[
+			[
+				"Package Control: Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Proje",
+				"Project: Add Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"Laravel control",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 249.0,
+		"history":
+		[
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/ToeatAPI",
+		"/C/xampp/htdocs/ToeatAPI/app",
+		"/C/xampp/htdocs/ToeatAPI/public"
+	],
+	"file_history":
+	[
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/ToeatAPI/app/Http/Controllers/Api/Auth/RegisterController.php",
+		"/C/xampp/htdocs/ToeatAPI/app/Photo.php",
+		"/C/xampp/htdocs/ToeatAPI/app/User.php",
+		"/C/xampp/htdocs/ToeatAPI/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/ToeatAPI/database/migrations/2018_04_25_131657_create_photos_table.php",
+		"/C/Users/jay/Desktop/classes/retrofit stuff.java",
+		"/C/xampp/htdocs/ToeatAPI/app/Http/Controllers/Api/Auth/LoginController.php",
+		"/C/xampp/htdocs/ToeatAPI/app/Http/Controllers/Api/Auth/IssueTokenTrait.php",
+		"/C/xampp/htdocs/ToeatAPI/routes/api.php",
+		"/C/xampp/htdocs/ToeatAPI/app/Http/Controllers/Api/UserGroupsController.php",
+		"/C/xampp/htdocs/ToeatAPI/database/seeds/UserGroupsTableSeeder.php",
+		"/C/xampp/htdocs/ToeatAPI/app/Http/Controllers/GroupController.php",
+		"/C/xampp/htdocs/ToeatAPI/database/seeds/GroupsTableSeeder.php",
+		"/C/xampp/htdocs/ToeatAPI/database/seeds/TripsTableSeeder.php",
+		"/C/xampp/htdocs/ToeatAPI/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/ToeatAPI/database/seeds/UsersTableSeeder.php",
+		"/C/xampp/htdocs/ToeatAPI/database/migrations/2018_04_19_123223_create_trips_table.php",
+		"/C/xampp/htdocs/ToeatAPI/database/migrations/2018_04_19_123157_create_groups_table.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        \n",
+			"');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "toeatapi.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"regist",
+				"app\\Http\\Controllers\\Api\\Auth\\RegisterController.php"
+			],
+			[
+				"register",
+				"app\\Http\\Controllers\\Api\\Auth\\RegisterController.php"
+			],
+			[
+				"api",
+				"routes\\api.php"
+			],
+			[
+				"loginc",
+				"app\\Http\\Controllers\\Api\\Auth\\LoginController.php"
+			],
+			[
+				"auth",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"handler",
+				"app\\Exceptions\\Handler.php"
+			],
+			[
+				"use",
+				"app\\User.php"
+			],
+			[
+				"route",
+				"vendor\\symfony\\routing\\Annotation\\Route.php"
+			],
+			[
+				"dispatch",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Bus\\Dispatcher.php"
+			],
+			[
+				"authser",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"user_",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"registercontroller",
+				"app\\Http\\Controllers\\ApiAuthRegisterController.php"
+			],
+			[
+				"appservice",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"config/da",
+				"config\\database.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"config/app",
+				"config\\app.php"
+			],
+			[
+				"dat",
+				"config\\database.php"
+			],
+			[
+				"user",
+				"app\\Http\\Controllers\\API\\UserController.php"
+			],
+			[
+				"database",
+				"database\\seeds\\DatabaseSeeder.php"
+			],
+			[
+				"service",
+				"app\\Providers\\AppServiceProvider.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
